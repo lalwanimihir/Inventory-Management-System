@@ -1,0 +1,1109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\services\\iauthservice\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\services\\iauthservice\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\data\\modalbuilderextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\data\\modalbuilderextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\mailsend\\mailsenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\mailsend\\mailsenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\migrations\\20240822051417_inventory9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\migrations\\20240822051417_inventory9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\controllers\\inventorycontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\controllers\\inventorycontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\controllers\\inventorycontroller\\inventoryrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\controllers\\inventorycontroller\\inventoryrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\services\\imailsendservice\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\services\\imailsendservice\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\authservice\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\authservice\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.domain\\entities\\inventorydbentities\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|solutionrelative:inventory management system.domain\\entities\\inventorydbentities\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.domain\\entities\\inventorydbentities\\inventoryrequestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|solutionrelative:inventory management system.domain\\entities\\inventorydbentities\\inventoryrequestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\services\\inventoryservice\\iproductdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\services\\inventoryservice\\iproductdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\services\\inventoryservice\\iinventoryrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\services\\inventoryservice\\iinventoryrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\iunitofwork\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\iunitofwork\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\igeneric\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\igeneric\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\queries\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\queries\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\queries\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\queries\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallactiveproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallactiveproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallactiveproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\queries\\getall\\getallactiveproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductavailabilityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductavailabilityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductavailabilitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\update\\updateproductavailabilitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\delete\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\delete\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\delete\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\delete\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\create\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\create\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\productdetailsfeature\\commands\\create\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\productdetailsfeature\\commands\\create\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getbyid\\getinventoryrequestsbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getbyid\\getinventoryrequestsbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getbyid\\getinventoryrequestsbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getbyid\\getinventoryrequestsbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getall\\getallinventoryrequestsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getall\\getallinventoryrequestsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getall\\getallinventoryrequestsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\queries\\getall\\getallinventoryrequestsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\update\\updateinventoryrequeststatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\update\\updateinventoryrequeststatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\update\\updateinventoryrequeststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\update\\updateinventoryrequeststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\create\\addinventoryrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\create\\addinventoryrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\create\\addinventoryrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\features\\inventoryrequestdetailsfeature\\commands\\create\\addinventoryrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\responsedto\\inventorypaginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\responsedto\\inventorypaginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\responsedto\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\responsedto\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\responsedto\\getproductsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\responsedto\\getproductsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\validations\\authenticationvalidations\\registerdetailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\validations\\authenticationvalidations\\registerdetailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\validations\\authenticationvalidations\\logindetailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\validations\\authenticationvalidations\\logindetailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\responsedto\\getinventoryrequestsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\responsedto\\getinventoryrequestsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\requestdto\\updateproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\requestdto\\updateproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\requestdto\\updateinventoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\requestdto\\updateinventoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\requestdto\\queryrequestwithuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\requestdto\\queryrequestwithuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\requestdto\\addproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\requestdto\\addproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\inventorydto\\requestdto\\addinventoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\inventorydto\\requestdto\\addinventoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.shared\\response\\responsemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|solutionrelative:inventory management system.shared\\response\\responsemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.shared\\response\\activeproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|solutionrelative:inventory management system.shared\\response\\activeproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.shared\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|solutionrelative:inventory management system.shared\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.domain\\entities\\identitydbentity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|solutionrelative:inventory management system.domain\\entities\\identitydbentity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\inventory management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\inventory management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\inventory management system.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\inventory management system.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.domain\\inventory management system.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED08694C-4092-4BB9-B8C4-9DCED28C3451}|Inventory Management System.Domain\\Inventory Management System.Domain.csproj|solutionrelative:inventory management system.domain\\inventory management system.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.infrastructure\\inventory management system.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{872EE6F2-B802-4288-A2EA-6C68D519CCF0}|Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj|solutionrelative:inventory management system.infrastructure\\inventory management system.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.shared\\inventory management system.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|solutionrelative:inventory management system.shared\\inventory management system.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.shared\\constants\\commonconstantsvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDC9E78-4203-4024-9476-64A067009267}|Inventory Management System.Shared\\Inventory Management System.Shared.csproj|solutionrelative:inventory management system.shared\\constants\\commonconstantsvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\authdto\\responsedtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\authdto\\responsedtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\authdto\\requestdtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\authdto\\requestdtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system.application\\dtos\\authdto\\requestdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F830A103-0608-478C-A334-E61384F4DDF1}|Inventory Management System.Application\\Inventory Management System.Application.csproj|solutionrelative:inventory management system.application\\dtos\\authdto\\requestdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|c:\\users\\pc3\\onedrive\\desktop\\peeyush webapi\\inventory management\\inventory management system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AC5E8DD-0B17-49CA-B23D-286BEABFB058}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 402,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\Data\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\Data\\InventoryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:44:08.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailSenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\MailSend\\MailSenderRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\MailSend\\MailSenderRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\MailSend\\MailSenderRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\MailSend\\MailSenderRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:20:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\IAuthService\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Services\\IAuthService\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\IAuthService\\IAuthRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Services\\IAuthService\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:04.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\AuthService\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\AuthService\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\AuthService\\AuthRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\AuthService\\AuthRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:05:10.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\Controllers\\AuthController\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeToolTip": "Inventory Management System\\Controllers\\AuthController\\AuthController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:24:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Generic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\Generic\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Generic\\GenericRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\Generic\\GenericRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:10:21.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Program.cs",
+              "RelativeToolTip": "Inventory Management System\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwHsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:20:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModalBuilderExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Data\\ModalBuilderExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\Data\\ModalBuilderExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Data\\ModalBuilderExtensionMethod.cs",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\Data\\ModalBuilderExtensionMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:19:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240822051417_Inventory9.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Migrations\\20240822051417_Inventory9.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\Migrations\\20240822051417_Inventory9.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Migrations\\20240822051417_Inventory9.cs",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\Migrations\\20240822051417_Inventory9.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:48:26.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Controllers\\InventoryController\\InventoryRequestsController.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\Controllers\\InventoryController\\InventoryRequestsController.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Controllers\\InventoryController\\InventoryRequestsController.cs",
+              "RelativeToolTip": "Inventory Management System\\Controllers\\InventoryController\\InventoryRequestsController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowGMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:10:01.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Controllers\\InventoryController\\ProductController.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\Controllers\\InventoryController\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Controllers\\InventoryController\\ProductController.cs",
+              "RelativeToolTip": "Inventory Management System\\Controllers\\InventoryController\\ProductController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwDoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:10:00.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\IMailSendService\\IMailSender.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Services\\IMailSendService\\IMailSender.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\IMailSendService\\IMailSender.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Services\\IMailSendService\\IMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\InventoryService\\IProductDetailRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Services\\InventoryService\\IProductDetailRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\InventoryService\\IProductDetailRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Services\\InventoryService\\IProductDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:15.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryRequestDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Entities\\InventoryDbEntities\\InventoryRequestDetails.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Domain\\Entities\\InventoryDbEntities\\InventoryRequestDetails.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Entities\\InventoryDbEntities\\InventoryRequestDetails.cs",
+              "RelativeToolTip": "Inventory Management System.Domain\\Entities\\InventoryDbEntities\\InventoryRequestDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:30.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Inventory Management System\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:02:35.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Entities\\InventoryDbEntities\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Domain\\Entities\\InventoryDbEntities\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Entities\\InventoryDbEntities\\ProductDetails.cs",
+              "RelativeToolTip": "Inventory Management System.Domain\\Entities\\InventoryDbEntities\\ProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:43.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IInventoryRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\InventoryService\\IInventoryRequestRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Services\\InventoryService\\IInventoryRequestRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Services\\InventoryService\\IInventoryRequestRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Services\\InventoryService\\IInventoryRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:04:00.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWorkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\IUnitOfWork\\IUnitOfWorkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:03:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\IGeneric\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\IGeneric\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\IGeneric\\IGenericRepository.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\IGeneric\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:03:53.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:54:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:53:58.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQueryHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:53:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQuery.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllProductQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:53:18.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllActiveProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQueryHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:53:05.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllActiveProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQuery.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQuery.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQuery.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Queries\\GetAll\\GetAllActiveProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:53:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:52:53.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:47:47.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:52:41.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:54:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateProductAvailabilityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityCommand.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityCommand.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityCommand.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:50:55.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:21:53.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommand.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Create\\AddProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:36:46.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateProductAvailabilityHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\ProductDetailsFeature\\Commands\\Update\\UpdateProductAvailabilityHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:52:33.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetInventoryRequestsByUserIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQueryHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQueryHandler.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:31:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetInventoryRequestsByUserIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQuery.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQuery.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQuery.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetById\\GetInventoryRequestsByUserIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:01:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetAllInventoryRequestsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQueryHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:34:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetAllInventoryRequestsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQuery.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQuery.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQuery.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Queries\\GetAll\\GetAllInventoryRequestsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:32:40.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateInventoryRequestStatusCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommandHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:21:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateInventoryRequestStatusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommand.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommand.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommand.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Update\\UpdateInventoryRequestStatusCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:19:50.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddInventoryRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommandHandler.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:47:32.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddInventoryRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommand.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommand.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommand.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Features\\InventoryRequestDetailsFeature\\Commands\\Create\\AddInventoryRequestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:46:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InventoryPaginationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\InventoryPaginationResponse.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\InventoryPaginationResponse.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\InventoryPaginationResponse.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\InventoryPaginationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:17:03.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaginationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\PaginationResponse.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\PaginationResponse.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\PaginationResponse.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\PaginationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:43:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetProductsResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetProductsResponseDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetProductsResponseDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetProductsResponseDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetProductsResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:07:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterDetailValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Validations\\AuthenticationValidations\\RegisterDetailValidation.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Validations\\AuthenticationValidations\\RegisterDetailValidation.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Validations\\AuthenticationValidations\\RegisterDetailValidation.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Validations\\AuthenticationValidations\\RegisterDetailValidation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:05:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginDetailValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Validations\\AuthenticationValidations\\LoginDetailValidation.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Validations\\AuthenticationValidations\\LoginDetailValidation.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Validations\\AuthenticationValidations\\LoginDetailValidation.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Validations\\AuthenticationValidations\\LoginDetailValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:27:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetInventoryRequestsResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetInventoryRequestsResponseDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetInventoryRequestsResponseDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetInventoryRequestsResponseDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\ResponseDto\\GetInventoryRequestsResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:44:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpdateProductRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateProductRequestDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateProductRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateProductRequestDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateProductRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:03:56.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateInventoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateInventoryRequestDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateInventoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateInventoryRequestDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\UpdateInventoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:25:06.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "QueryRequestWithUserIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\QueryRequestWithUserIdDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\QueryRequestWithUserIdDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\QueryRequestWithUserIdDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\QueryRequestWithUserIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:11:10.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddProductRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddProductRequestDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddProductRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddProductRequestDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddProductRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:05:12.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddInventoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddInventoryRequestDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddInventoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddInventoryRequestDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\InventoryDto\\RequestDto\\AddInventoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:31:26.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ResponseModal.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Response\\ResponseModal.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Shared\\Response\\ResponseModal.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Response\\ResponseModal.cs",
+              "RelativeToolTip": "Inventory Management System.Shared\\Response\\ResponseModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:48:00.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ActiveProductsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Response\\ActiveProductsResponse.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Shared\\Response\\ActiveProductsResponse.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Response\\ActiveProductsResponse.cs",
+              "RelativeToolTip": "Inventory Management System.Shared\\Response\\ActiveProductsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:50:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Entities\\IdentityDbEntity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Domain\\Entities\\IdentityDbEntity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Entities\\IdentityDbEntity\\ApplicationUser.cs",
+              "RelativeToolTip": "Inventory Management System.Domain\\Entities\\IdentityDbEntity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:57:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Inventory Management System.csproj",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Inventory Management System.csproj",
+              "RelativeDocumentMoniker": "Inventory Management System\\Inventory Management System.csproj",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Inventory Management System.csproj",
+              "RelativeToolTip": "Inventory Management System\\Inventory Management System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T14:55:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Inventory Management System.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Inventory Management System.Application.csproj",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Inventory Management System.Application.csproj",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Inventory Management System.Application.csproj",
+              "RelativeToolTip": "Inventory Management System.Application\\Inventory Management System.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T14:55:45.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Shared\\Enums\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "Inventory Management System.Shared\\Enums\\StatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:04:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Inventory Management System.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Inventory Management System.Domain.csproj",
+              "RelativeDocumentMoniker": "Inventory Management System.Domain\\Inventory Management System.Domain.csproj",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Domain\\Inventory Management System.Domain.csproj",
+              "RelativeToolTip": "Inventory Management System.Domain\\Inventory Management System.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T14:55:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Inventory Management System.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj",
+              "RelativeToolTip": "Inventory Management System.Infrastructure\\Inventory Management System.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T14:55:39.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Inventory Management System.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Inventory Management System.Shared.csproj",
+              "RelativeDocumentMoniker": "Inventory Management System.Shared\\Inventory Management System.Shared.csproj",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Inventory Management System.Shared.csproj",
+              "RelativeToolTip": "Inventory Management System.Shared\\Inventory Management System.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T14:55:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CommonConstantsValues.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Constants\\CommonConstantsValues.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Shared\\Constants\\CommonConstantsValues.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Shared\\Constants\\CommonConstantsValues.cs",
+              "RelativeToolTip": "Inventory Management System.Shared\\Constants\\CommonConstantsValues.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:13:06.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\AuthDto\\ResponseDtos\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:49:50.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:41:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "RelativeToolTip": "Inventory Management System.Application\\Dtos\\AuthDto\\RequestDtos\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:14:17.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventory Management System\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\appsettings.json",
+              "RelativeToolTip": "Inventory Management System\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T07:21:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inventory Management System\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC3\\OneDrive\\Desktop\\Peeyush WebAPI\\Inventory Management\\Inventory Management System\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inventory Management System\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T07:19:25.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

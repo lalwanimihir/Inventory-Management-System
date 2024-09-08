@@ -1,0 +1,15 @@
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\bin\Debug\net8.0\Inventory Management System.Domain.deps.json
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\bin\Debug\net8.0\Inventory Management System.Domain.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\bin\Debug\net8.0\Inventory Management System.Domain.pdb
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\bin\Debug\net8.0\Inventory Management System.Shared.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\bin\Debug\net8.0\Inventory Management System.Shared.pdb
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.csproj.AssemblyReference.cache
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.AssemblyInfoInputs.cache
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.AssemblyInfo.cs
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventor.4BA88264.Up2Date
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\refint\Inventory Management System.Domain.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\Inventory Management System.Domain.pdb
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Domain\obj\Debug\net8.0\ref\Inventory Management System.Domain.dll

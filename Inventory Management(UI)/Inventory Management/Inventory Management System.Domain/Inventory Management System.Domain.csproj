@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Inventory_Management_System.Domain</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="8.0.7" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inventory Management System.Shared\Inventory Management System.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

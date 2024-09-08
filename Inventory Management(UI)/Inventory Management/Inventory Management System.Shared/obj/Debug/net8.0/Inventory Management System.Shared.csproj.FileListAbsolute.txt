@@ -1,0 +1,11 @@
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\bin\Debug\net8.0\Inventory Management System.Shared.deps.json
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\bin\Debug\net8.0\Inventory Management System.Shared.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\bin\Debug\net8.0\Inventory Management System.Shared.pdb
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\Inventory Management System.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\Inventory Management System.Shared.AssemblyInfoInputs.cache
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\Inventory Management System.Shared.AssemblyInfo.cs
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\Inventory Management System.Shared.csproj.CoreCompileInputs.cache
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\Inventory Management System.Shared.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\refint\Inventory Management System.Shared.dll
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\Inventory Management System.Shared.pdb
+C:\Users\PC3\OneDrive\Desktop\Peeyush WebAPI\Inventory Management\Inventory Management System.Shared\obj\Debug\net8.0\ref\Inventory Management System.Shared.dll
