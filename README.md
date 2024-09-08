@@ -25,31 +25,39 @@ Role-Based Access: Different functionalities are accessible based on user roles.
 ## Backend Setup
 
   1. Clone the repository:
+     
      git clone https://github.com/yourusername/inventory-management-system.git
 
   2. Navigate to the backend directory:
+
      cd inventory-management-system/Backend
 
   3. Restore the dependencies:
+
      dotnet restore
 
   4. Update the appsettings.json file with your database connection string.
 
   5. Apply database migrations:
+
      dotnet ef database update
 
   6. Start the API server:
+
      dotnet run
 
 ## Frontend Setup
 
    1. Navigate to the frontend directory:
+
       cd inventory-management-system/Frontend
 
    2. Install the dependencies:
-      npm install
+
+       npm install
 
    3. Start the development server:
+
       npm start
 
    4. The application will be available at http://localhost:3000.
