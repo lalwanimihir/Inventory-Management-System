@@ -28,11 +28,12 @@ namespace Inventory_Management_System.Controllers.AuthController
             string[] role = ["User"];
             var identityResult = await _authRepository.RegisterAsync(identityUser, registerRequestDto.Password, role);
 
-            if (identityResult != null)
-            {
-                return Ok(identityResult);
-            }
-            return BadRequest(identityResult);
+            identityResult != null ? return Ok(identityResult) : BadRequest(identityResult);  
+          //  if (identityResult != null)
+          //  {
+              //  return Ok(identityResult);
+           // }
+           // return BadRequest(identityResult);
         }
 
         [HttpPost]
